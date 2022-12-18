@@ -2,7 +2,7 @@
 //  EmojiTableViewCell.swift
 //  EmojiReader
 //
-//  Created by Vladyslav Moroz on 03.11.2021.
+//  Created by Vladyslav Moroz on 03.11.2022.
 //
 
 import UIKit
